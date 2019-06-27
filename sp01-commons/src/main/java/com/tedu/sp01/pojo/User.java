@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class User {
+	//加了注解
 	private Integer id;
 	private String username;
 	private String password;
